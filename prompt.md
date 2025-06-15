@@ -1,15 +1,15 @@
 
-# 🚀 Prompt utilizado para gerar o E-book Jornada Java
+# Prompt utilizado para gerar o E-book Jornada Java
 
-## ✅ Prompt Profissional para Gerar Texto de E-book sobre Java
+## Prompt Profissional para Gerar Texto de E-book sobre Java
 
-### 🎯 Objetivo:
+### Objetivo:
 Crie o conteúdo completo de um **e-book sobre Java**, voltado para iniciantes e intermediários, com abordagem prática e linguagem acessível.  
 O texto deve ser dividido em **capítulos**, cada um com **título sugestivo**, linguagem simples e **exemplos de código contextualizados em situações reais**.
 
 ---
 
-## 📚 Regras Gerais do E-book:
+## Regras Gerais do E-book:
 
 1. Divida o conteúdo em **capítulos organizados e numerados**, com títulos atrativos (ex.: "Capítulo 3 – Dominando Estruturas de Controle").
 2. Cada capítulo deve conter:
@@ -23,7 +23,7 @@ O texto deve ser dividido em **capítulos**, cada um com **título sugestivo**, 
 
 ---
 
-## 📘 Sugestão de Capítulos:
+## Sugestão de Capítulos:
 
 1. **Capítulo 1 – Por que aprender Java hoje?**  
 2. **Capítulo 2 – Seu primeiro código: “Hello, Java!”**  
@@ -38,11 +38,11 @@ O texto deve ser dividido em **capítulos**, cada um com **título sugestivo**, 
 
 ---
 
-### 🚀 Instrução Final para Execução:
+### Instrução Final para Execução:
 
 > Gere o conteúdo completo de cada capítulo com base nessas diretrizes.  
 > Mantenha uma escrita didática, clara e objetiva. Sempre que possível, utilize **exemplos úteis em cenários reais**.  
 
 ---
 
-**Prompt criado por:** Kauan Miguel ✅
+**Prompt criado por:** Kauan Miguel
